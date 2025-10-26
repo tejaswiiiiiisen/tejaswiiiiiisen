@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> • 🌐 <a href="file:///D:/websites/index.html">Website</a> • 🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/">LinkedIn</a>
+  📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> • 🌐 <a href="tejaswi.free.nf">Website</a> • 🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/">LinkedIn</a>
 </p>
 
 <p align="center">
