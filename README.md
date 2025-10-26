@@ -1,8 +1,12 @@
 <h1 align="center">
   <b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejaswi+Sen;💻+CS+Student;🚀+Frontend+Developer;" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejaswi+Sen;💻+CS+Student;🚀+Frontend+Developer" alt="Typing Animation" />
   </b>
 </h1>
+
+<p align="center">
+  📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> • 🌐 <a href="file:///D:/websites/index.html">Website</a> • 🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/">LinkedIn</a>
+</p>
 
 <p align="center">
   <!-- Dynamic Profile Views Counter -->
@@ -73,7 +77,6 @@
 🧠 **Problem Solving (Basic)** – HackerRank  
 🧠 **Frontend Developer Test** – HackerRank  
 
-
 ---
 
 ## 🌟 Featured Project  
@@ -100,8 +103,9 @@ Tourism portal for **Ajmer’s heritage, routes & culture**
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:tejaswisen27@gmail.com"><img src="https://img.shields.io/badge/Email-tejaswisen27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tejaswisen26@gmail.com"><img src="https://img.shields.io/badge/Email-tejaswisen26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tejaswi-sen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tejaswi%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="file:///D:/websites/index.html" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-00ADEF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://instagram.com/tejaswiiiiiii" target="_blank"><img src="https://img.shields.io/badge/Instagram-@tejaswiiiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/918209925051" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
