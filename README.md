@@ -69,12 +69,10 @@
 
 ## 🏆 Certifications & Achievements  
 
-🥇 **Gold Level** – CodinGame Coding Speed  
+🥇 **sliver Level** – CodinGame Coding Speed  
 🧠 **Problem Solving (Basic)** – HackerRank  
 🧠 **Frontend Developer Test** – HackerRank  
-🏆 **1st Place** – Identity Exhibition 2024 *(AI Graphical Bot)*  
-🎤 **1st Place** – Ad Presentation Competition  
-👨‍💻 **2nd Place** – Crack the Code 2024  
+
 
 ---
 
