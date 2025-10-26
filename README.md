@@ -69,7 +69,7 @@
 
 ## 🏆 Certifications & Achievements  
 
-🥇 **sliver Level** – CodinGame Coding Speed  
+🥇 **silver Level** – CodinGame Coding Speed  
 🧠 **Problem Solving (Basic)** – HackerRank  
 🧠 **Frontend Developer Test** – HackerRank  
 
