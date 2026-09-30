@@ -1,21 +1,11 @@
 <h1 align="center">
   <b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejaswi+Sen;💻+CS+Student;🚀+Frontend+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejaswi+Sen;💻+CS+Student;🚀+MERN+Stack+Developer" alt="Typing Animation" />
   </b>
 </h1>
 
 <p align="center">
   📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> • 🌐 <a href="tejaswi.free.nf">Website</a> • 🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=tejaswiiiiiisen&label=👁️%20Profile%20Views&color=00ADEF&style=for-the-badge" alt="Profile Views" />
-  
-  <!-- Dynamic GitHub Follow Button -->
-  <a href="https://github.com/tejaswiiiiiisen?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/tejaswiiiiiisen?label=Follow&logo=github&style=for-the-badge&color=00ADEF" alt="GitHub Follow" />
-  </a>
 </p>
 
 ---
@@ -39,9 +29,10 @@
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools
 
-### ⚙️ Languages and Tools  
+### ⚙️ Languages and Tools
+
 <p align="center">
   <a href="https://www.java.com" target="_blank" title="Java">
     <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" />
@@ -77,32 +68,11 @@
 
 ---
 
-## 🏆 Certifications & Achievements  
+## 🏆 Certifications & Achievements
 
 🥇 **silver Level** – CodinGame Coding Speed  
 🧠 **Problem Solving (Basic)** – HackerRank  
 🧠 **Frontend Developer Test** – HackerRank  
-
----
-
-## 🌟 Featured Project  
-
-### 🌆 AjmerX City Exploration Website  
-Tourism portal for **Ajmer’s heritage, routes & culture**  
-**Tech Stack:** HTML · CSS · Bootstrap  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswiiiiiisen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswiiiiiisen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiiiiiisen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</p>
 
 ---
 
