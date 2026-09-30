@@ -43,17 +43,14 @@
 
 ### ⚙️ Languages and Tools  
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" />
-  </a>
   <a href="https://www.java.com" target="_blank" title="Java">
     <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" />
@@ -61,11 +58,20 @@
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
     <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" />
+  <a href="https://react.dev/" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" />
   </a>
-  <a href="https://www.blender.org/" target="_blank" title="Blender">
-    <img src="https://skillicons.dev/icons?i=blender&theme=dark" width="45" />
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="45" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" />
   </a>
 </p>
 
