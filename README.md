@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <b>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejaswi+Sen;💻+CS+Student;🚀+MERN+Stack+Developer" alt="Typing Animation" />
@@ -5,7 +6,10 @@
 </h1>
 
 <p align="center">
-  📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> • 🌐 <a href="tejaswi.free.nf">Website</a> • 🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/">LinkedIn</a>
+  📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> •
+  🌐 <a href="https://tejaswi.free.nf" target="_blank">Website</a> •
+  🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/" target="_blank">LinkedIn</a> •
+  💼 <a href="https://tejaswiiiiiisen.github.io/Portfolio-/" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -19,7 +23,7 @@
       🧠 Passionate about <b>Web Development, AI, and Creative Projects</b> <br>
       🛠️ Love building things that blend <b>tech + creativity</b> <br>
       🧩 Thrive on <b>problem-solving, teamwork</b>, and <b>innovation</b> <br>
-      📍 Based in India | 🌍 Open to global opportunities  
+      📍 Based in India | 🌍 Open to global opportunities
     </td>
     <td width="40%" align="center">
       <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="250" alt="Coding GIF"/>
@@ -70,20 +74,32 @@
 
 ## 🏆 Certifications & Achievements
 
-🥇 **silver Level** – CodinGame Coding Speed  
-🧠 **Problem Solving (Basic)** – HackerRank  
-🧠 **Frontend Developer Test** – HackerRank  
+🥈 **Silver Level** – CodinGame Coding Speed
+
+🧠 **Problem Solving (Basic)** – HackerRank
+
+🧠 **Frontend Developer Test** – HackerRank
 
 ---
 
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:tejaswisen26@gmail.com"><img src="https://img.shields.io/badge/Email-tejaswisen26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tejaswi-sen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tejaswi%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=" https://tejaswiiiiiisen.github.io/Portfolio-/" target="_blank"><img src=" https://tejaswiiiiiisen.github.io/Portfolio-/" /></a>
-  <a href="https://instagram.com/tejaswiiiiiii" target="_blank"><img src="https://img.shields.io/badge/Instagram-@tejaswiiiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/918209925051" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:tejaswisen26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tejaswisen26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tejaswi-sen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tejaswi%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tejaswiiiiiisen.github.io/Portfolio-/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+  <a href="https://instagram.com/tejaswiiiiiii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@tejaswiiiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/918209925051" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
