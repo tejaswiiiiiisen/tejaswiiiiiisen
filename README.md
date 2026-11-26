@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <b>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tejaswi+Sen;💻+CS+Student;🚀+MERN+Stack+Developer" alt="Typing Animation" />
@@ -6,7 +5,7 @@
 </h1>
 
 <p align="center">
-  📧 <a href="mailto:tejaswisen26@gmail.com">Email</a> •
+  📧 <a href="mailto:tejaswisen27@gmail.com">Email</a> •
   🌐 <a href="https://tejaswi.free.nf" target="_blank">Website</a> •
   🔗 <a href="https://www.linkedin.com/in/tejaswi-sen/" target="_blank">LinkedIn</a> •
   💼 <a href="https://tejaswiiiiiisen.github.io/Portfolio-/" target="_blank">Portfolio</a>
@@ -85,8 +84,8 @@
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:tejaswisen26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tejaswisen26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:tejaswisen27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tejaswisen27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tejaswi-sen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tejaswi%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -94,14 +93,9 @@
   <a href="https://tejaswiiiiiisen.github.io/Portfolio-/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio" />
   </a>
-  <a href="https://instagram.com/tejaswiiiiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@tejaswiiiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/918209925051" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 <p align="center">✨ Made with ❤️ & Passion by <b>Tejaswi Sen</b> ✨</p>
+```
