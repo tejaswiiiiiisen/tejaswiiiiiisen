@@ -81,7 +81,7 @@
 <p align="center">
   <a href="mailto:tejaswisen26@gmail.com"><img src="https://img.shields.io/badge/Email-tejaswisen26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tejaswi-sen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tejaswi%20Sen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="file:///D:/websites/index.html" target="_blank"><img src=" https://tejaswiiiiiisen.github.io/Portfolio-/" /></a>
+  <a href=" https://tejaswiiiiiisen.github.io/Portfolio-/" target="_blank"><img src=" https://tejaswiiiiiisen.github.io/Portfolio-/" /></a>
   <a href="https://instagram.com/tejaswiiiiiii" target="_blank"><img src="https://img.shields.io/badge/Instagram-@tejaswiiiiiii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/918209925051" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
